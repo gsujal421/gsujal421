@@ -43,13 +43,6 @@ Passionate about **data-driven problem solving**, **cloud integration**, and **M
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sujal-Gupta/Sujal-Gupta/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
