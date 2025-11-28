@@ -6,24 +6,21 @@
 ---
 
 # 🚀 About Me
-I work at the intersection of data analytics and business problem-solving.
-My focus is on turning raw data into clear insights, structured decisions, and actionable recommendations — the kind of thinking that drives real business outcomes.
+I work at the intersection of data science, analytics, and business problem-solving. I focus on breaking down messy problems, structuring them logically, and using data to drive decisions that actually change outcomes.
 
-I build end-to-end analytical solutions using SQL, Python (Pandas/EDA), Excel, and Tableau, with a growing interest in consulting-style analysis, case-based problem framing, and data storytelling.
+I build end-to-end analytical solutions using SQL, Python, and visualization tools — from data cleaning and feature engineering to modelling and insight generation. My approach blends technical depth with consulting-style thinking:
+problem → hypothesis → analysis → insight → recommendation.
 
-## Currently developing:
+I’m currently expanding into:
 
-Consulting-oriented analytics projects (problem → analysis → insight → recommendation)
+- Advanced ML workflows and explainable modelling
+- Consulting-style analysis and business case framing
+- Cloud data engineering fundamentals and modern data stack tools
+- High-impact dashboards for stakeholders and decision makers
 
-Cloud-based data workflows (AWS S3, Athena, Glue)
+My goal is simple:
 
-Advanced dashboards for business stakeholders
-
-## My goal:
-
-Solve business problems with data — not just run models.
-
-I care about clarity, impact, and decisions that actually move numbers.
+- Use data science to solve real business problems, not just train models.
 
 ---
 
