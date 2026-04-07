@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sujal
 
-I’m a Data Analyst focused on solving real-world business problems using SQL, Python, and AWS.
+I’m a Data Analyst with hands-on experience building data-driven systems that solve real business problems using SQL, Python, and AWS.
 
 ### 🚀 What I’ve Built
 - 📦 Revenue Leakage Detection System → Identified ₹79K+ potential revenue loss using data analysis and business logic
